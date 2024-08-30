@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 /.ipynb_checkpoints
+res10_300x300_ssd_iter_140000_fp16.caffemodel
+clip.mp4
+haarcascade_frontalface_default.xml
